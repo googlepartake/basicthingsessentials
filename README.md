@@ -1,6 +1,6 @@
 # 🚀 Basic Thing Essentials
 
-**Basic Thing Essentials** is a **powerful, streamlined admin system** for Roblox designed to be *way better* than the original. Originally created by [r_r], this enhanced version brings clarity, performance, and a modular structure that makes Roblox admin management intuitive and efficient.
+**Basic Thing Essentials** is a **powerful, streamlined admin system** for Roblox designed to be *way better* than the original. Originally created by [r_r], this enhanced version brings clarity, performance, and a modular structure that makes Roblox admin management intuitive and efficient. *Still being made*
 
 > ✨ Clean. 🔐 Secure. ⚙️ Extensible. ⚡ Fast.
 
